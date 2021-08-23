@@ -2,7 +2,7 @@
 
 - 🛠 I'm currently working with React.
 - 👀 I’m interested in Web & Mobile technologies.
-- 📚 I’m currently learning Advanced React.
+- 📚 I’m currently learning React, Typescript & NoSQL.
 - 💞️ I’m looking to collaborate on open source projects.
 
 
