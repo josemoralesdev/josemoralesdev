@@ -32,7 +32,10 @@
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemoralesdev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemoralesdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://josemoralesdev.github.io
 [instagram]: https://instagram.com/josemorales.dev
 [linkedin]: https://linkedin.com/in/josemoralesdev
-[discord]: https://discordapp.com/users/JEMorales#1998
+[discord]: https://discordapp.com/users/@JEMorales#1998
