@@ -1,15 +1,11 @@
-## Hi, i'm Jose Morales! - [Website][website]
+## Hi, I'm Jose Morales! - [Website][website]
 
-- 🛠 I'm currently working with React.
-- 👀 I’m interested in Web & Mobile technologies.
-- 📚 I’m currently learning React, Typescript & NoSQL.
-- 💞️ I’m looking to collaborate on open source projects.
-
+- 🛠 Currently working with Javascript, Python & Bicep.
+- 👀 Interested in Web & Mobile technologies.
 
 ## Connect with me:
 [<img align="left" width="32px" alt="Jose's LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-picture-31.png"/>][linkedin]
 [<img align="left" width="32px" alt="Jose's Instagram" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png"/>][instagram]
-[<img align="left" width="32px" alt="Jose's Discord" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"/>][discord]
 
 <br/>
 <br/>
